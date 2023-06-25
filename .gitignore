@@ -1,0 +1,8 @@
+# Ignore the built st executable file
+/st
+
+# Ignore built object files
+/*.o
+
+# Ignore the generated config file
+config.h
